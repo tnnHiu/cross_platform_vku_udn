@@ -1,0 +1,3 @@
+Trịnh Nguyễn Nhật Hiếu 21IT274 - Phát triển ứng dụng đa nền tảng
+https://github.com/tnnHiu/cross_platform_vku_udn.git
+
