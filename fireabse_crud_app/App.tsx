@@ -4,7 +4,6 @@ import {
   Alert,
   Button,
   FlatList,
-  SafeAreaView,
   StyleSheet,
   Text,
   TextInput,
@@ -22,7 +21,6 @@ import {
   updateDoc,
 } from "firebase/firestore";
 import { firestore } from "./firebaseConfig";
-import { deleteApp } from "firebase/app";
 
 interface Task {
   id: string;
